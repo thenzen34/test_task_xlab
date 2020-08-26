@@ -1,0 +1,14 @@
+API_KEY = "..."
+SECRET_KEY = "..."
+
+db_con_database = "..."
+
+db_con_user = "..."
+db_con_password = "..."
+
+db_con_host = "..."
+db_con_port = "..."
+
+db_con_schema = "..."
+
+delete_wav_file = True

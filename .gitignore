@@ -1,0 +1,10 @@
+# pycharm project files
+.idea
+venv
+
+# python cache files
+__pycache__
+data
+data.*
+*.log
+/config.py
